@@ -19,7 +19,7 @@ I'm focused on developing my skills in data cleaning, analysis, and visualizatio
 
 -   **Project 1:** [https://github.com/IpshitaBanerjeeData/E-commerce-Sales-Analysis-Project] - A project focused on E-commerce Sales Analysis.
 -   **Project 2:** [https://github.com/IpshitaBanerjeeData/NYC_Taxi_Data_Analysis] - An analysis of NYC Yellow Taxi Data.
--   **Project 3:** [https://github.com/IpshitaBanerjeeData/NYC_Taxi_Data_Analysis] - An analysis of NYC Yellow Taxi Data.
+-   **Project 3:** [https://github.com/IpshitaBanerjeeData/Global-Climate-Analysis] - An analysis on Global Warming Data.
 
 ---
 
