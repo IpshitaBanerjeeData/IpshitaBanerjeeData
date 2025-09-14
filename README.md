@@ -18,12 +18,13 @@ I'm focused on developing my skills in data cleaning, analysis, and visualizatio
 ### 🌱 I'm currently working on...
 
 -   **Project 1:** [https://github.com/IpshitaBanerjeeData/E-commerce-Sales-Analysis-Project] - A project focused on E-commerce Sales Analysis.
--   **Project 2:** [Link to your second project] - An analysis of [brief description of project].
+-   **Project 2:** [https://github.com/IpshitaBanerjeeData/NYC_Taxi_Data_Analysis] - An analysis of NYC Yellow Taxi Data.
+-   **Project 3:** [https://github.com/IpshitaBanerjeeData/NYC_Taxi_Data_Analysis] - An analysis of NYC Yellow Taxi Data.
 
 ---
 
 ### 📫 Let's Connect!
 
--   **LinkedIn:** [Your LinkedIn Profile URL]
+-   **LinkedIn:** [www.linkedin.com/in/-banipshitaerjee-943548292]
 -   **Portfolio:** [Your Portfolio/Personal Website URL - we'll create this later]
--   **Email:** [Your Professional Email Address]
+-   **Email:** [ipshitabanerjee2000@gmail.com]
