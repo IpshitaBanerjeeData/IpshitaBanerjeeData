@@ -17,7 +17,7 @@ I'm focused on developing my skills in data cleaning, analysis, and visualizatio
 
 ### 🌱 I'm currently working on...
 
--   **Project 1:** [Link to your first project] - A project focused on [brief description of project].
+-   **Project 1:** [https://github.com/IpshitaBanerjeeData/E-commerce-Sales-Analysis-Project] - A project focused on E-commerce Sales Analysis.
 -   **Project 2:** [Link to your second project] - An analysis of [brief description of project].
 
 ---
