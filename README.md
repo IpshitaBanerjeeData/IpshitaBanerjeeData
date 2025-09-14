@@ -26,5 +26,4 @@ I'm focused on developing my skills in data cleaning, analysis, and visualizatio
 ### 📫 Let's Connect!
 
 -   **LinkedIn:** [www.linkedin.com/in/-banipshitaerjee-943548292]
--   **Portfolio:** [Your Portfolio/Personal Website URL - we'll create this later]
 -   **Email:** [ipshitabanerjee2000@gmail.com]
