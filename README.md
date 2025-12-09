@@ -8,9 +8,9 @@ I'm focused on developing my skills in data cleaning, analysis, and visualizatio
 
 ### 📊 My Toolkit
 
--   **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
--   **Data Visualization:** Tableau, Power BI, Matplotlib, Seaborn
--   **Databases:** PostgreSQL, MySQL, DB Browser for SQLite
+-   **Languages:** Python, SQL
+-   **Data Visualization:** Tableau, Power BI
+-   **Databases:** MySQL
 -   **Other:** Microsoft Excel, Google Sheets, Git/GitHub
 
 ---
