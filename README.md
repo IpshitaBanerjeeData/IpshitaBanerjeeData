@@ -17,9 +17,9 @@ I'm focused on developing my skills in data cleaning, analysis, and visualizatio
 
 ### 🌱 I'm currently working on...
 
--   **Project 1:** [https://github.com/IpshitaBanerjeeData/E-commerce-Sales-Analysis-Project] - A project focused on E-commerce Sales Analysis.
--   **Project 2:** [https://github.com/IpshitaBanerjeeData/NYC_Taxi_Data_Analysis] - An analysis of NYC Yellow Taxi Data.
--   **Project 3:** [https://github.com/IpshitaBanerjeeData/Global-Climate-Analysis] - An analysis on Global Warming Data.
+-   **Project 1:** [https://github.com/IpshitaBanerjeeData/Global-Climate-Analysis] - An analysis on Global Warming Data.
+-   **Project 2:** [https://github.com/IpshitaBanerjeeData/Excel-Sales-Analytics] - A project on Excel Sales Analytics.
+-   **Project 3:** [https://github.com/IpshitaBanerjeeData/Excel-Finance-Analytics] - A project on Excel Finance Analytics.
 
 ---
 
