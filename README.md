@@ -19,11 +19,11 @@ I'm focused on developing my skills in data cleaning, analysis, and visualizatio
 
 -   **Project 1:** [https://github.com/IpshitaBanerjeeData/Global-Climate-Analysis] - An analysis on Global Warming Data.
 -   **Project 2:** [https://github.com/IpshitaBanerjeeData/Excel-Sales-Analytics] - A project on Excel Sales Analytics.
--   **Project 3:** [https://github.com/IpshitaBanerjeeData/Excel-Finance-Analytics] - A project on Excel Finance Analytics.
+-   **Project 3:** [https://github.com/IpshitaBanerjeeData/Zomato-Data-Analysis-with-Python] - A project on Zomato Data Analysis with Python.
 
 ---
 
 ### 📫 Let's Connect!
 
--   **LinkedIn:** [www.linkedin.com/in/banerjeeipshita]
+-   **LinkedIn:** [www.linkedin.com/in/banerjee-ipshita-data]
 -   **Email:** [ipshitabanerjee2000@gmail.com]
